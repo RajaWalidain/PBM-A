@@ -2,7 +2,7 @@
 ### 4522210013
 # 📱 Aplikasi Flutter Adaptive Responsif
 
-Halo! Ini adalah project Flutter yang saya buat untuk memenuhi tugas mata kuliah Pemrograman Mobile. Aplikasi ini menggunakan layout adaptif, jadi tampilannya bisa menyesuaikan ukuran layar, baik itu di HP maupun tablet. Saya pakai package flutter_adaptive_scaffold biar gampang ngatur responsifnya.
+Halo! Ini adalah project Flutter yang saya buat untuk memenuhi tugas mata kuliah Pemrograman Mobile. Aplikasi ini menggunakan layout adaptif, jadi tampilannya bisa menyesuaikan ukuran layar, baik itu di HP maupun tablet. Saya pakai package flutter_adaptive_responsif agar mudah mengatur responsifnya.
 
 ## 🎯 Fitur Utama
 🧩 Layout Adaptif
